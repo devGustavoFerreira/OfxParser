@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfxParser", "OfxParser\OfxParser.csproj", "{AD6D6B1D-E696-4B76-ADD3-21167D822E4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfxParser.Tests", "OfxParser.Tests\OfxParser.Tests.csproj", "{A0A51D67-6ADA-4195-B157-58F195B5D2FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AD6D6B1D-E696-4B76-ADD3-21167D822E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD6D6B1D-E696-4B76-ADD3-21167D822E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD6D6B1D-E696-4B76-ADD3-21167D822E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A51D67-6ADA-4195-B157-58F195B5D2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A51D67-6ADA-4195-B157-58F195B5D2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A51D67-6ADA-4195-B157-58F195B5D2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A51D67-6ADA-4195-B157-58F195B5D2FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
